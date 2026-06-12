@@ -53,7 +53,7 @@
 // Reveal-on-scroll for cards.
 (function () {
   const targets = document.querySelectorAll(
-    ".freq-card, .model-card, .step, .testimonial, .price-card"
+    ".freq-card, .model-card, .step, .testimonial, .price-card, .li-card"
   );
   if (!("IntersectionObserver" in window)) return;
   targets.forEach((el) => {
