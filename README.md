@@ -2,6 +2,8 @@
 
 > You're not burned out. You're mistuned.
 
+**Live site: https://jvanderberg.github.io/six-frequencies/**
+
 A lovingly over-the-top, LinkedIn-bait self-help framework. Every professional
 broadcasts on one of six Frequencies — **Pulse, Hum, Carrier, Chord, Spark, Beam** —
 and the 11-minute **Tuning™** reveals your Resonant Frequency, your Harmonic,
